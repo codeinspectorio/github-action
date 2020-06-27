@@ -1,3 +1,6 @@
+- name: Code Inspector GitHub action
+  uses: codeinspectorio/github-action@v1
+
 name: 'Code Inspector GitHub action'
 description: 'Ensure your code quality meet given standards'
 inputs:
